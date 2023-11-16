@@ -1,0 +1,48 @@
+*{color: red;}
+.eexx{
+    color: blue;
+}
+.lor2{
+    color: aqua;
+    font-size: large;
+}
+.lor3{
+    color: black;
+}
+#text{
+    color: blueviolet;
+}
+#text1{
+    color: rgb(22, 239, 3);
+}
+p{
+    color: rgb(15, 15, 14);
+    font-size: 30px;
+    text-decoration-line: overline;
+    text-decoration-line: line-through;
+text-decoration: underline;
+text-decoration: none;
+-moz-text-decoration-color: white;
+text-decoration-thickness:;
+}
+.eexx,.lor2,.lor3,#text,#text1{
+    background-color: chartreuse;
+}
+.h1{
+    text-align: center;
+    text-transform: uppercase;
+    color: darkgreen ;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
